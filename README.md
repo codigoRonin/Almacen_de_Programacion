@@ -1,12 +1,14 @@
 # Retos de Programación
 
 ## Proyecto de retos semanales de la comunidad para practicar Java.
+
 Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas. Todas las semanas se añadiran nuevos retos en los repositorios y los retos de la semana anterior se resolverá en GitHub y Twitch.
 
-### Requisitos mínimos
-JDK Java 
-Visual Studio Code
-Git 
+## Listado de retos
+
+* **#0** - 30/06/22 - `LA SERIE DE FIBONACCI`
+* **#1** - 03/07/22 - `¿ES UN ANAGRAMA?`
+* **#2** - 03/07/22 - `POO BÁSICA - HERENCIA`
 
 # Links
 
