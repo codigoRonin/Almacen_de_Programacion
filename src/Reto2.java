@@ -1,3 +1,5 @@
+import Reto2.Mesa;
+
 /*
  * Reto #2
  * POO BÁSICA - HERENCIA
@@ -23,5 +25,10 @@
  *
  */
 public class Reto2 {
-    
+    public static void main(String[] args) {
+        
+        Mesa mesa = new Mesa(70, 80, 120, 4);
+
+        mesa.imprimir();
+    }
 }
