@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /*
  * Reto #1
  * ¿ES UN ANAGRAMA?
@@ -22,5 +24,22 @@
  *
  */
 public class Reto1 {
+    public static void main(String[] args) {
+        System.out.println(esAnagrama("roma", "Amor"));
+    }
 
+    public static boolean esAnagrama(String palabra1, String palabra2) {
+
+        if (palabra1.equalsIgnoreCase(palabra2)) {
+            return false;
+        }
+
+        char[] array1 = palabra1.toCharArray();
+        char[] array2 = palabra2.toCharArray();
+
+        Arrays.sort(array1);
+        Arrays.sort(array2);
+
+        return new String(array1).equalsIgnoreCase(new String(array2));
+    }
 }
