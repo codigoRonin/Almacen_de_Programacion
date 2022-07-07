@@ -1,6 +1,6 @@
 package Reto2;
 
-public class Mesa extends Mueble{
+public class Mesa extends Mueble {
 
     private int numPatas;
 
@@ -21,14 +21,9 @@ public class Mesa extends Mueble{
     // Sobreescribimos el método imprimir
     @Override
     public void imprimir() {
-        
+
         super.imprimir();
         System.out.println("Número de patas = " + numPatas);
     }
 
-    
-
-
-    
-    
 }

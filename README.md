@@ -9,6 +9,8 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#0** - 30/06/22 - `LA SERIE DE FIBONACCI`
 * **#1** - 03/07/22 - `¿ES UN ANAGRAMA?`
 * **#2** - 03/07/22 - `POO BÁSICA - HERENCIA`
+* **#3** - 07/07/22 - `EL FAMOSO "FIZZ BUZZ"`
+* **#4** - 07/07/22 - `POO BÁSICA - INTERFACES`
 
 # Links
 
