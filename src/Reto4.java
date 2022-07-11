@@ -1,3 +1,8 @@
+import Reto4.Cuadrado;
+import Reto4.Poligono;
+import Reto4.Rectangulo;
+import Reto4.Triangulo;
+
 /*
  * Reto #4
  * POO BÁSICA - INTERFACES
@@ -17,5 +22,16 @@
  *
  */
 public class Reto4 {
-    
+    public static void main(String[] args) {
+
+        area(new Triangulo(9, 5));
+        area(new Rectangulo(5, 3));
+        area(new Cuadrado(3));
+    }
+
+    public static double area(Poligono poligono) {
+        poligono.mostrarArea();
+        return poligono.area();
+
+    }
 }
