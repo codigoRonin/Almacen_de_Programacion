@@ -1,5 +1,3 @@
-import Reto2.Mesa;
-
 /*
  * Reto #2
  * POO BÁSICA - HERENCIA
@@ -24,6 +22,9 @@ import Reto2.Mesa;
  * - Subiré una posible solución al ejercicio.
  *
  */
+
+import Reto2.Mesa;
+
 public class Reto2 {
     public static void main(String[] args) {
         

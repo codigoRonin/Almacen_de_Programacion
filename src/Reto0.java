@@ -32,6 +32,8 @@ public class Reto0 {
             return num;
         return obtenerFibonacci(num-1) + obtenerFibonacci(num -2);
     }
+    
+    // Ejemplo calculo del factorial de forma recursiva
     public static int Factorial(int num) {
 
         // Caso Base: !0 -> 1

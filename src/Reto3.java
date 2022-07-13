@@ -1,7 +1,3 @@
-import javax.lang.model.util.ElementScanner6;
-
-import org.w3c.dom.ls.LSException;
-
 /*
  * Reto #3
  * EL FAMOSO "FIZZ BUZZ"
@@ -20,7 +16,8 @@ import org.w3c.dom.ls.LSException;
  * - Subiré una posible solución al ejercicio.
  *
  */
-public class Reto3 {
+
+ public class Reto3 {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
             System.out.println(fizzBuzz(i));

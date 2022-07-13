@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /*
  * Reto #1
  * ¿ES UN ANAGRAMA?
@@ -23,9 +21,12 @@ import java.util.Arrays;
  * - Subiré una posible solución al ejercicio.
  *
  */
+
+import java.util.Arrays;
+
 public class Reto1 {
     public static void main(String[] args) {
-        System.out.println(esAnagrama("amo", "omar"));
+        System.out.println(esAnagrama("amor", "Roma"));
     }
 
     public static boolean esAnagrama(String palabra1, String palabra2) {
@@ -34,12 +35,12 @@ public class Reto1 {
             return false;
         }
 
-        char[] array1 = palabra1.toCharArray();
-        char[] array2 = palabra2.toCharArray();
+        char[] array1 = palabra1.toLowerCase().toCharArray();
+        char[] array2 = palabra2.toLowerCase().toCharArray();
 
         Arrays.sort(array1);
         Arrays.sort(array2);
 
-        return new String(array1).equalsIgnoreCase(new String(array2));
+        return new String(array1).equals(new String(array2));
     }
 }

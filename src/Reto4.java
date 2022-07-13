@@ -1,13 +1,8 @@
-import Reto4.Cuadrado;
-import Reto4.Poligono;
-import Reto4.Rectangulo;
-import Reto4.Triangulo;
-
 /*
  * Reto #4
  * POO BÁSICA - INTERFACES
- * Fecha publicación enunciado: 24/01/22
- * Fecha publicación resolución: 31/01/22
+ * Fecha publicación enunciado: 07/07/22
+ * Fecha publicación resolución: 14/07/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Crea UNA ÚNICA FUNCIÓN (importante que sólo sea una) que sea capaz de calcular y retornar el área de un polígono.
@@ -21,6 +16,12 @@ import Reto4.Triangulo;
  * - Subiré una posible solución al ejercicio.
  *
  */
+
+import Reto4.Cuadrado;
+import Reto4.Poligono;
+import Reto4.Rectangulo;
+import Reto4.Triangulo;
+
 public class Reto4 {
     public static void main(String[] args) {
 
