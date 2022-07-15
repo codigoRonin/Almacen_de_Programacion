@@ -11,6 +11,8 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#2** - 03/07/22 - `POO BÁSICA - HERENCIA`
 * **#3** - 07/07/22 - `EL FAMOSO "FIZZ BUZZ"`
 * **#4** - 07/07/22 - `POO BÁSICA - INTERFACES`
+* **#5** - 14/07/22 - `CÓDIGO MORSE`
+* **#6** - 14/07/22 - `TRABAJANDO CON FICHEROS`
 
 # Links
 
