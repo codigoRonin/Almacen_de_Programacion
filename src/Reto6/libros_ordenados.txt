@@ -1,0 +1,6 @@
+ Amanecer;Pepito Pérez;5.5;
+ El juego de Ender;Orson Scott Card;9.95;
+ La tabla de Flandes;Arturo Pérez Reverte;7.9;
+ Amanecer;Pepito Pérez;5.5;
+ El juego de Ender;Orson Scott Card;9.95;
+ La tabla de Flandes;Arturo Pérez Reverte;7.9;
