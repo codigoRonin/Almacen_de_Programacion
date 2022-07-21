@@ -23,14 +23,14 @@ import java.util.regex.Pattern;
 public class Reto5 {
     public static void main(String[] args) {
 
-        String textoNatural = "Chocolate @ Avena!";
-        String textoMorse;
+        String texto = "Hola cara de cola!";
+        String textoCodificado, textoDecodificado;
 
-        textoMorse = codificar(textoNatural);
-        textoNatural = codificar(textoMorse);
+        textoCodificado = codificar(texto);
+        textoDecodificado = codificar(textoCodificado);
 
-        System.out.println(textoMorse);
-        System.out.println(textoNatural);
+        System.out.println(textoCodificado);
+        System.out.println(textoDecodificado);
 
     }
 
