@@ -18,5 +18,20 @@
  */
 
 public class Reto7 {
-    
+    public static void main(String[] args) {
+        System.out.println(esPalindromo("Ana lleva al oso la avellana.") ? "Es palíndromo" : "No es palíndromo");
+    }
+
+    private static boolean esPalindromo(String cadena) {
+
+        cadena = cadena.toLowerCase().replace("á", "a")
+                .replace("é", "e").replace("í", "i")
+                .replace("ó", "o").replace("ú", "u")
+                .replaceAll("[^a-z0-9]", "");
+
+        String invertida = new StringBuilder(cadena).reverse().toString();
+
+        return cadena.equals(invertida);
+    }
+
 }

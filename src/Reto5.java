@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 public class Reto5 {
     public static void main(String[] args) {
 
-        String texto = "Hola cara de cola!";
+        String texto = "---- --- -.-. --- .-.. .- - . ";
         String textoCodificado, textoDecodificado;
 
         textoCodificado = codificar(texto);
