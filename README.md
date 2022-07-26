@@ -6,15 +6,17 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 
 ## Listado de retos
 
-* **#0** - 30/06/22 - `LA SERIE DE FIBONACCI`
-* **#1** - 03/07/22 - `¿ES UN ANAGRAMA?`
-* **#2** - 03/07/22 - `POO BÁSICA - HERENCIA`
-* **#3** - 07/07/22 - `EL FAMOSO "FIZZ BUZZ"`
-* **#4** - 07/07/22 - `POO BÁSICA - INTERFACES`
-* **#5** - 14/07/22 - `CÓDIGO MORSE`
-* **#6** - 14/07/22 - `TRABAJANDO CON FICHEROS`
-* **#7** - 21/07/22 - `¿ES UN PALÍNDROMO?`
-* **#8** - 21/07/22 - `¡ME FALTA UNA PIEZA!`
+* **#0**  - 30/06/22 - `LA SERIE DE FIBONACCI`
+* **#1**  - 03/07/22 - `¿ES UN ANAGRAMA?`
+* **#2**  - 03/07/22 - `POO BÁSICA - HERENCIA`
+* **#3**  - 07/07/22 - `EL FAMOSO "FIZZ BUZZ"`
+* **#4**  - 07/07/22 - `POO BÁSICA - INTERFACES`
+* **#5**  - 14/07/22 - `CÓDIGO MORSE`
+* **#6**  - 14/07/22 - `TRABAJANDO CON FICHEROS`
+* **#7**  - 21/07/22 - `¿ES UN PALÍNDROMO?`
+* **#8**  - 21/07/22 - `¡ME FALTA UNA PIEZA!`
+* **#9**  - 28/07/22 - `¡MI PRIMO EL RECURSIVO!`
+* **#10** - 28/07/22 - `¡TRIÁNGULO DE LAS BERMUDAS!`
 
 # Links
 
