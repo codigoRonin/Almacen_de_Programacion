@@ -21,46 +21,8 @@ import java.util.Scanner;
 public class Reto8 {
     public static void main(String[] args) {
         // opcionMenosOptima();
-        // opcionCasiOptima();
-        opcionOptima();
-    }
-
-    private static void opcionMenosOptima() {
-        int numPiezas, posicion;
-        int[] piezas;
-        Scanner sc = new Scanner(System.in);
-
-        // Construimos un array de N-1 posiciones y almacenamos los números de piezas
-
-        System.out.println("Introduce el número de piezas del puzzle");
-        numPiezas = sc.nextInt();
-        piezas = new int[numPiezas - 1];
-        System.out.println("Ahora introduce las " + numPiezas + " piezas que tienes: ");
-        for (int i = 0; i < piezas.length; i++)
-            piezas[i] = sc.nextInt();
-
-        // Ordenamos el array
-
-        for (int i = 0; i < piezas.length - 1; i++)
-            for (int j = i + 1; j < piezas.length; j++) {
-                if (piezas[i] > piezas[j]) {
-                    int aux = piezas[i];
-                    piezas[i] = piezas[j];
-                    piezas[j] = aux;
-                }
-            }
-
-        // Lo recorremos viendo cuál es la pieza que falta (allí donde el número de
-        // pieza
-        // ya no coincide con la casilla)
-
-        posicion = 1;
-
-        while ((posicion <= piezas.length) && posicion == piezas[posicion - 1])
-            posicion++;
-
-        System.out.println("La pieza que falta es: " + posicion);
-
+        opcionCasiOptima();
+        // opcionOptima();
     }
 
     private static void opcionCasiOptima() {
@@ -102,7 +64,7 @@ public class Reto8 {
 
         // Sumamos 1 + 2 + 3 + … + N sin bucle, empleando la fórmula de la suma de Gauss
         sumaTotal = 0;
-        sumaTotal += numPiezas*(numPiezas+1)/2;
+        sumaTotal += numPiezas * (numPiezas + 1) / 2;
 
         // Pedimos las piezas que tiene y las sumamos
         sumaParcial = 0;

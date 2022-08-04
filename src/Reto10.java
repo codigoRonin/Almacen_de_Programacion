@@ -1,18 +1,19 @@
 /*
  * Reto #10
- * ¡TRIÁNGULO DE LAS BERMUDAS!
+ * ¡ARBOL DE NAVIDAD!
  * Fecha publicación enunciado: 28/07/22
  * Fecha publicación resolución: 04/08/22
  * Dificultad: MEDIA
  *
  * Enunciado: Escribe un programa que le pida al usuario un entero N y 
- * dibuje un triángulo creciente de altura N alineado a la derecha. 
+ * dibuje un árbol de navidad de esa altura.
+ *  
  * Por ejemplo, si N es 4, deberá dibujar esto:
  * 
  *                          *
- *                         **
- *                        ***
- *                       ****
+ *                         ***
+ *                        *****
+ *                       *******
  * 
  * Información adicional:
  * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
@@ -20,6 +21,7 @@
  * - Subiré una posible solución al ejercicio.
  *
  */
+
 public class Reto10 {
     
 }
