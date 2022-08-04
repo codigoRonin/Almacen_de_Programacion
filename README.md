@@ -15,8 +15,8 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#6**  - 14/07/22 - `TRABAJANDO CON FICHEROS`
 * **#7**  - 21/07/22 - `¿ES UN PALÍNDROMO?`
 * **#8**  - 21/07/22 - `¡ME FALTA UNA PIEZA!`
-* **#9**  - 28/07/22 - `¡MI PRIMO EL RECURSIVO!`
-* **#10** - 28/07/22 - `¡TRIÁNGULO DE LAS BERMUDAS!`
+* **#9**  - 28/07/22 - `¡ORDENANDO!`
+* **#10** - 04/07/22 - `ARBOL DE NAVIDAD`
 
 # Links
 

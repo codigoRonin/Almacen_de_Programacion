@@ -21,8 +21,8 @@ import java.util.Scanner;
 public class Reto8 {
     public static void main(String[] args) {
         // opcionMenosOptima();
-        opcionCasiOptima();
-        // opcionOptima();
+        // opcionCasiOptima();
+        opcionOptima();
     }
 
     private static void opcionCasiOptima() {
@@ -63,8 +63,9 @@ public class Reto8 {
         numPiezas = sc.nextInt();
 
         // Sumamos 1 + 2 + 3 + … + N sin bucle, empleando la fórmula de la suma de Gauss
+        // -> N*(N+1)/2
         sumaTotal = 0;
-        sumaTotal += numPiezas * (numPiezas + 1) / 2;
+        sumaTotal = numPiezas * (numPiezas + 1) / 2;
 
         // Pedimos las piezas que tiene y las sumamos
         sumaParcial = 0;
