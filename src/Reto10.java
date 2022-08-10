@@ -23,5 +23,24 @@
  */
 
 public class Reto10 {
-    
+    public static void main(String[] args) {
+        int altura = 4;
+
+        int blancos = altura - 1;
+        int asteriscos = 1;
+
+        for (int i = 0; i < altura; i++) {
+
+            for (int k = 0; k < blancos; k++) {
+
+                System.out.print(" ");
+            }
+            for (int j = 0; j < asteriscos; j++) {
+                System.out.print("*");
+            }
+            System.out.print("\n");
+            blancos--;
+            asteriscos += 2;
+        }
+    }
 }
