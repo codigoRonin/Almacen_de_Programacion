@@ -16,7 +16,9 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#7**  - 21/07/22 - `¿ES UN PALÍNDROMO?`
 * **#8**  - 21/07/22 - `¡ME FALTA UNA PIEZA!`
 * **#9**  - 28/07/22 - `¡ORDENANDO!`
-* **#10** - 04/07/22 - `ARBOL DE NAVIDAD`
+* **#10** - 28/07/22 - `ARBOL DE NAVIDAD`
+* **#11** - 11/08/22 - `ARBOL DE NAVIDAD`
+* **#12** - 11/08/22 - `ARBOL DE NAVIDAD`
 
 # Links
 

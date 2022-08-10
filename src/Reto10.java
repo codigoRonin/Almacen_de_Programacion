@@ -1,7 +1,7 @@
 /*
  * Reto #10
  * ARBOL DE NAVIDAD
- * Fecha publicación enunciado: 04/07/22
+ * Fecha publicación enunciado: 28/07/22
  * Fecha publicación resolución: 11/08/22
  * Dificultad: MEDIA
  *
