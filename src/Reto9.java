@@ -6,7 +6,7 @@
  * Dificultad: FÁCIL
  *
  * Enunciado: Crea una función que ordene y retorne una array de números.
- * - La función recibirá un listado (por ejemplo [2, 4, 6, 8, 9]) y un parámetro adicional
+ * - La función recibirá un listado (por ejemplo [2, 6, 4, 9, 8]) y un parámetro adicional
  *   "Asc" o "Desc" para indicar si debe ordenarse de menor a mayor o de mayor a menor.
  * 
  * - No se pueden utilizar funciones propias del lenguaje que lo resuelvan automáticamente.
@@ -19,14 +19,16 @@
  */
 
 public class Reto9 {
+    // Los tipos enumerado permiten a una variable comportarse
+    // como un conjunto de constantes predefinidas.
     enum Ordenacion {
         ASC, DESC;
     }
 
     public static void main(String[] args) {
-        int[] vector = { 2, 4, 6, 8, 9 };
+        int[] vector = { 2, 6, 4, 9, 8 };
 
-        vector = ordenarVector(vector, Ordenacion.DESC);
+        vector = ordenarVector(vector, Ordenacion.ASC);
 
         for (int i = 0; i < vector.length; i++)
             System.out.print(vector[i] + " ");
@@ -45,8 +47,9 @@ public class Reto9 {
             }
         }
 
-        // En caso de que haya que ordenar el arrar de forma descendente le damos la
-        // vuelta
+        // En caso de que haya que ordenar el array de forma descendente
+        // simplemente le damos la vuelta
+
         if (tipo == Ordenacion.DESC) {
             for (int i = 0, j = vector.length - 1; i < vector.length / 2; i++, j--) {
                 int aux = vector[i];

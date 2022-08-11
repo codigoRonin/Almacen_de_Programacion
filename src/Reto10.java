@@ -24,21 +24,20 @@
 
 public class Reto10 {
     public static void main(String[] args) {
-        int altura = 4;
+        int altura = 10;
 
         int blancos = altura - 1;
         int asteriscos = 1;
 
         for (int i = 0; i < altura; i++) {
 
-            for (int k = 0; k < blancos; k++) {
-
+            for (int k = 0; k < blancos; k++) { // Pintamos los espacios en blanco
                 System.out.print(" ");
             }
-            for (int j = 0; j < asteriscos; j++) {
+            for (int j = 0; j < asteriscos; j++) { // Pintamos los asteríscos
                 System.out.print("*");
             }
-            System.out.print("\n");
+            System.out.print("\n"); // Pasamos a la siguiente linea del árbol
             blancos--;
             asteriscos += 2;
         }
