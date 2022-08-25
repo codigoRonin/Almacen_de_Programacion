@@ -37,7 +37,7 @@ public class Reto12 {
       String restoLetras = palabra.substring(1, palabra.length());
 
       byte[] ascii = primeraLetra.getBytes(StandardCharsets.US_ASCII);
-      if (ascii[0] > 97 && ascii[0] < 122) {
+      if (ascii[0] >= 97 && ascii[0] <= 122) {
         ascii[0] -= 32;
         primeraLetra = Character.toString(ascii[0]);
       } else if (primeraLetra.equals("ñ")) {

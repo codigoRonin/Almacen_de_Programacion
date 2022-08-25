@@ -23,14 +23,13 @@ public class Reto11 {
     System.out.println(esPrimo(27, 2));
   }
 
-  // Caso base: el divisor es mayor que la mitad del número: ya no quedan
-  // divisores por probar, y el número es primo
-
-  // Caso recursivo: el divisor es menor que la mitad del número.
-  // Comprobamos si son divisibles, y si no lo son, miramos el siguiente divisor
-
   private static boolean esPrimo(int numero, int divisor) {
-    if (divisor > numero / 2) return true;
+    // Caso base: el divisor es mayor que la mitad del número: ya no quedan
+    // divisores por probar, y el número es primo
+    if (divisor > numero / 2)
+      return true;
+    // Caso recursivo: el divisor es menor que la mitad del número.
+    // Comprobamos si son divisibles, y si no lo son, miramos el siguiente divisor
     return numero % divisor != 0 && esPrimo(numero, divisor + 1);
   }
 }
