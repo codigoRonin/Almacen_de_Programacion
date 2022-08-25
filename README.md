@@ -17,8 +17,10 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#8**  - 21/07/22 - `¡ME FALTA UNA PIEZA!`
 * **#9**  - 28/07/22 - `¡ORDENANDO!`
 * **#10** - 28/07/22 - `ARBOL DE NAVIDAD`
-* **#11** - 11/08/22 - `ARBOL DE NAVIDAD`
-* **#12** - 11/08/22 - `ARBOL DE NAVIDAD`
+* **#11** - 11/08/22 - `¡MI PRIMO EL RECURSIVO!`
+* **#12** - 11/08/22 - `EN MAYÚSCULAS`
+* **#13** - 25/08/22 - `LLEVANDO CAJAS`
+* **#14** - 25/08/22 - `¿ES UN NÚMERO DE ARMSTRONG?`
 
 # Links
 
