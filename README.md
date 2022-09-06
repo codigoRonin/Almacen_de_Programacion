@@ -21,6 +21,7 @@ Pequeños retos de programación para mejorar nuestras habilidades y poder enfre
 * **#12** - 11/08/22 - `EN MAYÚSCULAS`
 * **#13** - 25/08/22 - `LLEVANDO CAJAS`
 * **#14** - 25/08/22 - `¿ES UN NÚMERO DE ARMSTRONG?`
+* **#15** - 01/09/22 - `AÑOS BISIESTOS`
 
 # Links
 

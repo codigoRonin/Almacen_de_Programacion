@@ -34,5 +34,24 @@
  */
 
 public class Reto13 {
+public static void main(String[] args) {
+
+    System.out.println(numeroMinimoViajes(7));
     
+}
+
+
+// Aplicamos una estrategia divide y vencerás : vamos dividiendo el problema en
+// versiones más simples que, combinadas, resuelven el problema general.
+
+// Aplicamos una función recursiva:
+// Si sólo hay 1 caja, hacemos un viaje.
+// Si hay más cajas, haremos un viaje más los que resulten de rellenar la mitad
+// de las cajas.
+
+public static int numeroMinimoViajes(int cajas){
+    if(cajas == 1)
+        return 1;
+    return 1 + numeroMinimoViajes(cajas/2);
+    }
 }
