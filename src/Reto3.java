@@ -10,11 +10,6 @@
  * - Múltiplos de 5 por la palabra "buzz".
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  *
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
- *
  */
 
  public class Reto3 {

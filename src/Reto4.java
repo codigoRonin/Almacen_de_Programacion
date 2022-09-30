@@ -10,11 +10,6 @@
  * - Los polígonos soportados serán Triángulo, Cuadrado y Rectángulo.
  * - Imprime el cálculo del área de un polígono de cada tipo.
  *
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
- *
  */
 
 import Reto4.Cuadrado;

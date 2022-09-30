@@ -15,11 +15,6 @@
  * 
  * En el programa principal, crea una mesa de 70 de alto, 80 de ancho y 120 de largo,
  * y haz que muestre su información con "imprimir"
-"
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
  *
  */
 

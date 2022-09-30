@@ -14,12 +14,6 @@
  *        8208 = 8^4 + 2^4 + 0^4 + 8^4
  *        4210818 = 4^7 + 2^7 + 1^7 + 0^7 + 8^7 + 1^7 + 8^7
  *
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Puedes hacer un Fork del repo y una Pull Request al repo original para que veamos tu solución aportada.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
- *
  */
 
 public class Reto14 {

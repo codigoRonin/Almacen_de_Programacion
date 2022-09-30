@@ -25,12 +25,6 @@
  * El número mínimo de viajes es de 2: en el primer viaje ponemos 2 bolas en 
  * las cajas 2 y 3, y en el segundo viaje ponemos 1 bola en las cajas 1 y 3
  *
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Puedes hacer un Fork del repo y una Pull Request al repo original para que veamos tu solución aportada.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
- *
  */
 
 public class Reto13 {
