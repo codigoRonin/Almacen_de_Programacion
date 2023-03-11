@@ -1,8 +1,6 @@
 /*
  * Reto #4
  * POO BÁSICA - INTERFACES
- * Fecha publicación enunciado: 07/07/22
- * Fecha publicación resolución: 14/07/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Crea UNA ÚNICA FUNCIÓN (importante que sólo sea una) que sea capaz de calcular y retornar el área de un polígono.

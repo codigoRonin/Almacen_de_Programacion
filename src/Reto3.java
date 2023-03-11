@@ -1,8 +1,6 @@
 /*
  * Reto #3
  * EL FAMOSO "FIZZ BUZZ"
- * Fecha publicación enunciado: 07/07/22
- * Fecha publicación resolución: 14/07/22
  * Dificultad: FÁCIL
  * 
  * Enunciado: Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:

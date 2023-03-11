@@ -1,8 +1,6 @@
 /*
  * Reto #12
  * EN MAYÚSCULAS
- * Fecha publicación enunciado: 11/08/22
- * Fecha publicación resolución: 25/08/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Crea una función que reciba un String de cualquier tipo y se encargue de

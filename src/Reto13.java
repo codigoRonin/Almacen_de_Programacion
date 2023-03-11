@@ -1,8 +1,6 @@
 /*
  * Reto #13
  * LLEVANDO CAJAS
- * Fecha publicación enunciado: 25/08/22
- * Fecha publicación resolución: 01/09/22
  * Dificultad: DIFÍCIL
  *
  * Enunciado: Disponemos de N cajas vacías, cada una con capacidad para almacenar 

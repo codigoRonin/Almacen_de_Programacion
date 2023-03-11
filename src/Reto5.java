@@ -1,8 +1,6 @@
 /*
  * Reto #5
  * CÓDIGO MORSE
- * Fecha publicación enunciado: 14/07/22
- * Fecha publicación resolución: 21/07/22
  * Dificultad: MEDIA
  *
  * Enunciado: Crea un programa que sea capaz de transformar texto natural a código morse y viceversa.

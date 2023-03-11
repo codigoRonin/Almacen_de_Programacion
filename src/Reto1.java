@@ -1,8 +1,6 @@
 /*
  * Reto #1
  * ¿ES UN ANAGRAMA?
- * Fecha publicación enunciado: 03/07/22
- * Fecha publicación resolución: 07/07/22
  * Dificultad: MEDIA
  *
  * Enunciado: Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean) según sean o no anagramas.

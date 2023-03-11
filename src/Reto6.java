@@ -1,8 +1,6 @@
 /*
  * Reto #6
  * TRABAJANDO CON FICHEROS
- * Fecha publicación enunciado: 14/07/22
- * Fecha publicación resolución: 21/07/22
  * Dificultad: FÁCIL
  *
  * Crea un programa en Java que lea un archivo de texto con información de libros, llamado "libros.txt".

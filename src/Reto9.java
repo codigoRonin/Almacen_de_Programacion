@@ -1,8 +1,6 @@
 /*
  * Reto #9
  * ¡ORDENANDO!
- * Fecha publicación enunciado: 28/07/22
- * Fecha publicación resolución: 11/08/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Crea una función que ordene y retorne una array de números.

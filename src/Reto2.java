@@ -1,8 +1,6 @@
 /*
  * Reto #2
  * POO BÁSICA - HERENCIA
- * Fecha publicación enunciado: 03/07/22
- * Fecha publicación resolución: 07/07/22
  * Dificultad: FACIL
  *
  * Escribe un programa en Java que defina una clase padre Mueble,con atributos protegidos ancho, alto y largo,

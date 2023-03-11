@@ -1,8 +1,6 @@
 /*
  * Reto #10
  * ARBOL DE NAVIDAD
- * Fecha publicación enunciado: 28/07/22
- * Fecha publicación resolución: 11/08/22
  * Dificultad: MEDIA
  *
  * Enunciado: Escribe un programa que le pida al usuario un entero N y 

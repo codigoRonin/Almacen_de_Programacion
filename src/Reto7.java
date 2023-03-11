@@ -1,8 +1,6 @@
 /*
  * Reto #7
  * ¿ES UN PALÍNDROMO?
- * Fecha publicación enunciado: 21/07/22
- * Fecha publicación resolución: 28/07/22
  * Dificultad: MEDIA
  *
  * Enunciado: Escribe una función que reciba un texto y retorne verdadero o falso (Boolean) según sean o no palíndromos.

@@ -1,8 +1,6 @@
 /*
  * Reto #0
  * LA SERIE DE FIBONACCI
- * Fecha publicación enunciado: 30/06/22
- * Fecha publicación resolución: 03/07/22
  * Dificultad: DIFÍCIL
  *
  * Enunciado: 
@@ -11,11 +9,6 @@
  * Si uno quiere encontrar el n-ésimo elemento, entonces el número se encuentra sumando (n-1) y (n-2) términos,
  * donde n debe ser mayor que 0.
  * 0, 1, 1, 2, 3, 5, 8, 13...
- *
- * Información adicional:
- * - Usa el canal de nuestro discord "retos-programación" para preguntas, dudas o prestar ayuda a la comunidad.
- * - Revisaré el ejercicio en directo desde Twitch el jueves siguiente al de su publicación.
- * - Subiré una posible solución al ejercicio.
  *
  */
 

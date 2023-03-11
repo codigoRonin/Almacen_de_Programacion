@@ -1,8 +1,6 @@
 /*
  * Reto #16
  * ¿CUANTOS DIGITOS?
- * Fecha publicación enunciado: 15/09/22
- * Fecha publicación resolución: 22/09/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Realiza un programa que determine cuántos dígitos tiene un número entero.

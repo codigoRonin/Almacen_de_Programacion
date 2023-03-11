@@ -1,8 +1,6 @@
 /*
  * Reto #8
  * ¡ME FALTA UNA PIEZA!
- * Fecha publicación enunciado: 21/07/22
- * Fecha publicación resolución: 28/07/22
  * Dificultad: MEDIA (si se resuelve de forma óptima)
  *
  * Enunciado:Un puzzle tiene N piezas numeradas de la 1 a la N, y nos falta una.

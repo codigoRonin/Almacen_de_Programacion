@@ -1,8 +1,6 @@
 /*
  * Reto #11
  * ¡MI PRIMO EL RECURSIVO!
- * Fecha publicación enunciado: 11/08/22
- * Fecha publicación resolución: 25/08/22
  * Dificultad: DIFÍCIL
  *
  * Enunciado: Escribe una función recursica que se encargue de comprobar si un número 

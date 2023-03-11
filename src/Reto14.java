@@ -1,8 +1,6 @@
 /*
  * Reto #14
  * ¿ES UN NÚMERO DE ARMSTRONG?
- * Fecha publicación enunciado: 25/08/22
- * Fecha publicación resolución: 01/09/22
  * Dificultad: FÁCIL
  *
  * Enunciado: Escribe una función que calcule si un número dado es un número de Amstrong

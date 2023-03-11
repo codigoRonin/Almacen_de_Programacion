@@ -1,29 +1,30 @@
-# Retos de Programación
+# El Almacén de la Programación
 
-## Proyecto de retos semanales de la comunidad para practicar Java.
+## Proyecto de resolución de algoritmos de la comunidad para practicar Java.
 
-Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas. Se añadiran nuevos retos en los repositorios y los retos de la semana anterior se resolverá en GitHub.
+Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
+Se añadiran nuevos retos en los repositorios de forma periódica y pasado un tiempo se actualizarán con las soluciones a GitHub.
 
 ## Listado de retos
 
-* **#0**  - 30/06/22 - `LA SERIE DE FIBONACCI`
-* **#1**  - 03/07/22 - `¿ES UN ANAGRAMA?`
-* **#2**  - 03/07/22 - `POO BÁSICA - HERENCIA`
-* **#3**  - 07/07/22 - `EL FAMOSO "FIZZ BUZZ"`
-* **#4**  - 07/07/22 - `POO BÁSICA - INTERFACES`
-* **#5**  - 14/07/22 - `CÓDIGO MORSE`
-* **#6**  - 14/07/22 - `TRABAJANDO CON FICHEROS`
-* **#7**  - 21/07/22 - `¿ES UN PALÍNDROMO?`
-* **#8**  - 21/07/22 - `¡ME FALTA UNA PIEZA!`
-* **#9**  - 28/07/22 - `¡ORDENANDO!`
-* **#10** - 28/07/22 - `ARBOL DE NAVIDAD`
-* **#11** - 11/08/22 - `¡MI PRIMO EL RECURSIVO!`
-* **#12** - 11/08/22 - `EN MAYÚSCULAS`
-* **#13** - 25/08/22 - `LLEVANDO CAJAS`
-* **#14** - 25/08/22 - `¿ES UN NÚMERO DE ARMSTRONG?`
-* **#15** - 01/09/22 - `AÑOS BISIESTOS`
-* **#16** - 15/09/22 - `¿CUANTOS DIGITOS?`
-* **#17** - 29/09/22 - `NO REPEAT`
+* **#0**  - `LA SERIE DE FIBONACCI`
+* **#1**  - `¿ES UN ANAGRAMA?`
+* **#2**  - `POO BÁSICA - HERENCIA`
+* **#3**  - `EL FAMOSO "FIZZ BUZZ"`
+* **#4**  - `POO BÁSICA - INTERFACES`
+* **#5**  - `CÓDIGO MORSE`
+* **#6**  - `TRABAJANDO CON FICHEROS`
+* **#7**  - `¿ES UN PALÍNDROMO?`
+* **#8**  - `¡ME FALTA UNA PIEZA!`
+* **#9**  - `¡ORDENANDO!`
+* **#10** - `ARBOL DE NAVIDAD`
+* **#11** - `¡MI PRIMO EL RECURSIVO!`
+* **#12** - `EN MAYÚSCULAS`
+* **#13** - `LLEVANDO CAJAS`
+* **#14** - `¿ES UN NÚMERO DE ARMSTRONG?`
+* **#15** - `AÑOS BISIESTOS`
+* **#16** - `¿CUANTOS DIGITOS?`
+* **#17** - `NO REPEAT`
 
 # Links
 
