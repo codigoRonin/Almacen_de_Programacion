@@ -1,4 +1,4 @@
-# El Almacén de la Programación
+# El Almacén de Programación
 
 ## Proyecto de resolución de algoritmos de la comunidad para practicar Java.
 
